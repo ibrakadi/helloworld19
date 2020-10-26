@@ -1,9 +1,5 @@
-
-
-<h1> Hello, Welcome to Simple DevOps Project Mariama !!   </h1>
-<h2> Data Service Group is your learning partner </h2>
-<h2> Glad to see you here </h2>
-<h1> Good job on learning Devops</h1>
-<h1> I can't wait to start making big $$$$$ doing this </h1>
-<h1> this line is for docker test</h1>
+<h2> we are working on devops pipeline and it is very interesting. I feel like working in the nice place </h2>
+<h2>we are building the devops pipeline from git to jenkins to kubernetes </h2>> 
+<h2> I am loving it and can't wait to get the $$$$$$ </h2>    
+<h2> Thanks to Pr Serge for taking time to show us all these good things </h2>   
   
