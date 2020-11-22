@@ -5,7 +5,7 @@ pipeline {
   }
   environment {
     registry = "ibrakadi/devop-pipeline"
-    registryCredential = 'DockerID'  
+    registryCredential = 'dockerID'  
   }
   stages {
     stage('Build'){
